@@ -9,4 +9,4 @@ WOW new content
 feature content
 
 
-Content from VBOx VM
+Content from VMware
